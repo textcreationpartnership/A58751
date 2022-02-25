@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation for discovery of the horrid sacrilegious murther of the late Arch-Bishop of Saint Andrews</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58751</idno>
+            <idno type="STC">Wing S1870</idno>
+            <idno type="STC">ESTC R6505</idno>
+            <idno type="EEBO-CITATION">13704252</idno>
+            <idno type="OCLC">ocm 13704252</idno>
+            <idno type="VID">101468</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58751)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101468)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 848:57)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation for discovery of the horrid sacrilegious murther of the late Arch-Bishop of Saint Andrews</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, printer to His Most Sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sharp, James, 1613-1679.</term>
+               <term>Proclamations --  Great Britain.</term>
+               <term>Broadsides --  Scotland --  Edinburgh (Lothian) --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101468:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>A PROCLAMATION For diſcovery of the horrid and ſacrilegious murther of the late Arch Biſhop of Saint <hi>Andrews.</hi>
+            </head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">C</seg>HARLES, by the Grace of God, King of Great <hi>Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith:</signed>
+               <salute>To <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> our Lyon King at Arms, and his Brethren Heraulds, Macers, or Meſſengers at Arms, our Sheriffs in that part conjunctly and ſeverally, ſpecially conſtitute, Greeting;</salute>
+            </opener>
+            <p>We being fully and by legal proofs aſſured of the late horrid and bloody murther committed upon Saturnday laſt, being the third of <hi>May</hi> inſtant, by Tenor eleven Fanatick aſſaſinats, upon the Perſon of the moſt reverend Father in God, <hi>James</hi> late Arch-Biſhop of Saint <hi>Andrews,</hi> Primat of all <hi>Scotland,</hi> which barbarous and inhumane aſſaſination, and parracide will (we doubt not) ſpread horrour and amazement in all the hearts of ſuch as believe that there is a God, or a Chriſtian Religion; A cruelty exceeding the barbarity of Pagans, and Heathens, amongſt whom the Officers and Mi<g ref="char:EOLhyphen"/>niſters of Religion are reputed to be ſacred, &amp; are by the reſpect born to the deity, which they adore, ſecured againſt allſuch bloody and execrable attempts, A cruelty exceeding the belief of all true Proteſtants, whoſe Churches have juſtly ſtigmatized with the marks of impiety, all ſuch as defile with blood thoſe hands which they ought to hold up toHeaven; And a cruelty equal to any with which we can reproach the Enemies of this true and Reformed Church: By which alſo not only the principles of humane Society, but our Authority and Government (the ſaid Arch-Biſhop, being one of our Privy Council) is highly violated, and example and incouragement given for murthering all ſuch as ſerve us faithfully according to the preſcript of our Laws and Royal Commands, daily inſtances whereof we are to expect, whilſt Field-Conventicles, thoſe <hi>rendevouzes</hi> of Rebellion, and forges of all bloody and Jeſuitical principles, are ſo frequented and followed: to the ſcandal of all Government, and the contempt of our Laws; And which murther is as far as is poſſible, rendered yet more deteſtable, by the untasked boldneſs of ſuch, as durſt openly with bare faces, in the midſt of our Kingdom, at mid-day aſſemble themſelves together, to Kill in our High-way the Primate of our Kingdom, and one of our Privy Council, by ſo many ſtroakes and ſhots as left his body, as if <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> but one wound, and many of which being given after they knew he was dead, were remarkable proofs they were acted by <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of helliſh and inſatiable cruelty: We have therefore, with advice of onr Privy Council thought fit hereby to command &amp; charge <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sheriffs, Stewarts, Baylies of Regalities and Bayliaries and their Deputes, Magiſtrates of Burghes, and Officers of Our ſtanding Forces, to ſearch, ſeek, take and apprehend the perſons guilty of the ſaid horrid Murther, or any ſuſpect by them, and to impriſon them until they be brought to Juſtice, and all Our good and faithful Subjects to concur in the taking and ſecuring as far as is in their power theſe Aſſaſſinates; And in reſpect there is a company of vagrant and ſculking Ruſſians, who to the great contempt of all Go<g ref="char:EOLhyphen"/>vernment do ride thorow this Our Kingdom, killing Our Souldiers, deforcing ſuch as put Our Laws in execution, and com<g ref="char:EOLhyphen"/>mitting ſuch horrible Murthers, who might be eaſily diſcovered if all ſuch amongſt whom they converſe did according to their duty endeavour to apprehend them, or give notice where they haunt or reſort: We have therefore thought fit con<g ref="char:EOLhyphen"/>form to the 144. <hi>Act, Par:</hi> 12, K. <hi>Ja.</hi> 6. To command and charge all Our Subjects That whenſoever any unknown men or va<g ref="char:EOLhyphen"/>gabounds ſhall repair amongſt them, that they with all poſſible ſpeed certifie any of Our Privy Council, Officers of Our Forces, or any having Truſt under Us Thereof; with certification to them, that if they omit the ſame, they ſhall be puniſhed with all ri<g ref="char:EOLhyphen"/>gor conform to the ſaid Act. And ſince ſeveral of the ſaids Aſſaſſinates are known to have been Tennents in the Shire of <hi>Fife,</hi> whoſe faces will be known to ſuch of the Witneſſes as were preſent; We hereby require and command all the Heretors and Maſters of the ſaid Shire of <hi>Fife</hi> and <hi>Kinroſs</hi> to bring their Tennents, Cottars and Servants, and others dwelling on their Lands, to the reſpective Towns at the Dyets after mentioned, <hi>viz.</hi> thoſe within the Preſbytrie of St. <hi>Andrews,</hi> to the Town of St. <hi>Andrews,</hi> upon the thirteenth day of <hi>May</hi> inſtant; thoſe within the Preſbytrie of <hi>Couper,</hi> to the Town of <hi>Couper</hi> upon the ſixteenth day of the ſaid Moneth; thoſe within the Preſbytrie of <hi>Kirkady,</hi> to the Town of <hi>Kirkady</hi> upon the twenty day of the ſaid Moneth, and thoſe within the Preſbytrie of <hi>Dumfermline,</hi> to the Town of <hi>Dumfermline</hi> upon the twenty third day of the ſaid Moneth, at ten a Clock in the forenoon, upon each one of the ſaids Dayes, there to continue and abide till they be examined by the Sheriff-Deputs of the ſaid Shire, who are hereby Commiſſionate to that effect, and to be ſeen by the ſaids Witneſſes, With certification to ſuch of the ſaids Tennents, Cottars, Servants, and others foreſaid as ſhall be abſent, they ſhall be reputed as ac<g ref="char:EOLhyphen"/>ceſſory to the ſaid Crime; And the Maſters if they produce them not, or if hereafter they harbour any that ſhall not com<g ref="char:EOLhyphen"/>pear, they ſhall be reputed favourers of the ſaid Aſſaſſination. And whereas there are ſome perſons under Caption or Inter<g ref="char:EOLhyphen"/>communing in the ſaid Shire for ſeveral cauſes, and leſt perſons who are innocent of that horrid Crime, may be thereby de<g ref="char:EOLhyphen"/>barred from appearing, and vindicating themſelves; We have thought fit hereby to ſiſt and ſupersede all execution upon any Letters of Caption or Intercommuning, or any other warrant for ſecuring of any perſons for any cauſe for the ſpace of fourty eight hours before and after the ſaids dyets of appearance, that they may ſafely come and go without any trouble or im<g ref="char:EOLhyphen"/>pediment whatſoever. And to the end the ſaid cruel Murther may be the more eaſily diſcovered, We do hereby offer and give full aſſurance of Our Indemnity to any one of the ſaids Aſſaſſinats who ſhall diſcover his complices and ſuch as hounded them out, and of preſent payment of the ſum of ten thouſand merks to any who ſhall inform who were the ſaids Aſſaſſinats, if upon his information, they or either of them can be apprehended, that they may be brought to condign puniſhment. And ordains theſe Preſents to be Printed, and Publiſhed at the Mercat Croſs of <hi>Edinburgh,</hi> and at the Mercat Croſſes of all the Roy<g ref="char:EOLhyphen"/>al Burghs in the Shires of <hi>Fife</hi> and <hi>Kinroſs,</hi> and to be read at the Paroch Kirks of the ſaid Shires, and Juriſdictions with<g ref="char:EOLhyphen"/>in the ſame upon <hi>Sunday</hi> next, being the eleventh of this inſtant, immediatly after the ordinary time of Divine Service in the forenoon that the ſame may come to the knowledge of all Perſons concerned. Given under Our Signet at <hi>Edinburgh</hi> the fourth day of <hi>May,</hi> 1679. and of Our Reign the thretty <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> year.</p>
+            <closer>
+               <signed>Alexr. Gibſon, Cl. Sti. Concilii.</signed>
+            </closer>
+            <closer>GOD ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred Majeſty. 1675.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
